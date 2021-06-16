@@ -1,0 +1,1 @@
+# bazel_bazelignore_local_repo_not_working
